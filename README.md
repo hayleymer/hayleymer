@@ -4,7 +4,6 @@
 
 I turn data into analysis aimed at decisions, not just dashboards. My background pairs around fifteen years of education leadership with formal data science training (Master of Data Science: Strategy and Leadership, Distinction, RMIT). My portfolio spans machine learning, experimental design, and applied analytics across public policy, finance, customer behaviour, and education, with a particular interest in public-interest and social-impact work.
 
-Currently seeking data analytics, insights, and research roles across state and local government, not-for-profit, and social-impact organisations.
 
 ## What I bring
 
